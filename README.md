@@ -1,4 +1,3 @@
-# 👋 Hey, I'm **Nazeer Khan** — exploring Machine Learning & Robot Operating Systems
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E9EFF&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Nazeer+Khan;Machine+Learning+Learner+%7C+ROS+Enthusiast;Python+%26+C+Programmer+in+Progress" />
