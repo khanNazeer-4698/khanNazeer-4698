@@ -92,13 +92,16 @@
 
 ---
 
-## 👀 Profile Visitors
+## 👀 Profile & Repo Traffic
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khanNazeer-4698&style=for-the-badge&color=blue" />
-</p>
+  <!-- Profile Visitors -->
+  <img src="https://komarev.com/ghpvc/?username=khanNazeer-4698&style=for-the-badge&color=2E9EFF" />
 
----
+  <!-- Repo Traffic Graph -->
+  <br><br>
+  <img src="https://ghchart.rshah.org/khanNazeer-4698" alt="GitHub chart" />
+</p>
 
 ## ⚡ Dynamic Activity
 
